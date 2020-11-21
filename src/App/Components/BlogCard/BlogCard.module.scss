@@ -1,0 +1,38 @@
+.blog-card {
+  width: 31.5%;
+  margin-right: 10px;
+  margin-bottom: 25px;
+  :global {
+    .blog-image {
+      height: 215px;
+    }
+    .info {
+      margin: 3px 0px 10px 0px;
+      .tags:before {
+        height: 12px;
+        margin: 0px 10px;
+        content: "";
+        border-left: 2px solid #fe61af;
+      }
+    }
+    .forward-icon {
+      vertical-align: middle;
+      margin: 0px 3px;
+      color: #fe61af;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .blog-card {
+    width: 47%;
+    margin-right: 10px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .blog-card {
+    width: 100%;
+    margin-right: 0px;
+  }
+}

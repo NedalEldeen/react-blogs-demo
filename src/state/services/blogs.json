@@ -1,0 +1,56 @@
+[
+  {
+    "blog_id": 1,
+    "title": "Vodafone and Xiaomi collaborate to offer affordable 5G phone",
+    "slug": "vodafone-xiaomi-affordable-5g-phone",
+    "body": "Vodafone and Xiaomi are joining forces to bring the highly affordable Xiaomi Mi 10 T Lite 5G phone to Vodafone’s Gigabit 5G network in eight markets across Europe, giving customers a greater opportunity to experience and enjoy the full potential of 5G without breaking the bank. From 30 October 2020, Vodafone and Xiaomi will run an exclusive joint marketing initiative offering their customers the Mi 10 T Lite 5G handset plus a free pair of Xiaomi’s Mi TWS 2s wireless earbuds worth £79.99.  Vodafone UK will be the first market to start pre-sale of the Vodafone-exclusive 128GB Mi T Lite 5G variant for an unbeatable price of £29 upfront and instalments starting from £38 a month.The special promotion will kickstart with interactive power your creativity community events where key influencers from selected countries will unbox the handset and demonstrate its features to a live online audience.  Each power your creativity event will be hosted live on YouTube and Facebook as well as the official mi.com website.  In the UK, the event can be viewed here: ",
+    "image": "https://content.vodafone.com/sites/default/files/2020-11/xiaomi-vodafone-live-streaming-full.jpg",
+    "tags": ["5G"],
+    "published_at": "11-02-2020"
+  },
+  {
+    "blog_id": 2,
+    "title": "F-LANE: meet the tech start-ups working to empower women through tech",
+    "slug": "f-lane-meet-tech-start-ups-working-empower-women-through-tech",
+    "body": "Nine start-ups focused on empowering women through technology are preparing to present and engage in an interactive session with business leaders, entrepreneurs, mentors and impact investors as the 2020 edition of Vodafone Institute’s F-LANE accelerator comes to a close in November. F-LANE is the first start-up accelerator in Europe which focuses on supporting early-stage businesses using technology to empower women around the world. The accelerator was launched by the Vodafone Institute for Society and Communications in 2016 and has supported around 30 female-focused businesses in the time since. Inger Paus, Managing Director of the Vodafone Institute said: Our research has shown just how enormous the underrepresentation of female founders is in the tech sector worldwide and their lack of access to venture capital. We launched F-LANE to support social business models which have the potential to change the economic opportunities, wellbeing and future prospects of girls and women globally. F-LANE has operated virtually for the first time this year, enabling the Vodafone Institute to increase the regional scope and diversity of social businesses participating on the programme.  More than 450 social start-ups from more than 80 countries applied for a place on the accelerator. Since the beginning of September those nine social-impact start-ups have received personalised support by dedicated Vodafone mentors and industry experts, bespoke training programmes and access to networking opportunities with impact investors.",
+    "image": "https://content.vodafone.com/sites/default/files/inline-images/uRmgws6JdCRhdHtnlaNAFcFvso5V8jy28eaoKkBg0dgKAVZh4s.jpg",
+    "tags": ["Women"],
+    "published_at": "10-29-2020"
+  },
+  {
+    "blog_id": 3,
+    "title": "How tech is transforming businesses in Kenya",
+    "slug": "how-technology-is-changing-the-landscape-for-businesses-in-kenya",
+    "body": "Pauline Kinja has big ambitions for Palde Farm Fresh, her grocery and home-delivery business based in Nairobi, Kenya. Investments in mobile and broadband connectivity from Safaricom – a Vodafone company – have enabled Pauline to grow her business during the coronavirus crisis and she expects this to continue beyond the pandemic. Technology has opened up real opportunities for us, Pauline says, speaking over mobile video call from her home in Nairobi. We’re delivering food by courier to around 300 customers a month now, some as far away as Mombasa – around 480km – with orders being placed through WhatsApp and paid for through M-Pesa. Our online business is growing fast and we’re not turning back.",
+    "image": "https://content.vodafone.com/sites/default/files/2020-10/pauline-kinja-founder-of-palde-farm-fresh.jpg",
+    "tags": ["Digital Society"],
+    "published_at": "10-02-2020"
+  },
+  {
+    "blog_id": 4,
+    "title": "Africa's fight against maternal mortality",
+    "slug": "africas-fight-against-maternal-mortality",
+    "body": "It is wholly unacceptable that a mother in sub-Saharan Africa is over 100 times1 more likely to die during pregnancy and childbirth than a woman in Western Europe in an age when having a mobile phone and access to the internet alone can greatly enhance their life chances.",
+    "image": "https://content.vodafone.com/sites/default/files/2020-10/image2.jpg",
+    "tags": ["Digital Society"],
+    "published_at": "08-18-2020"
+  },
+  {
+    "blog_id": 5,
+    "title": "Before Vodafone I would have never entertained the thought of coming out in the workplace",
+    "slug": "before-vodafone-id-have-never-entertained-the-thought-of-coming-out-in-the-workplace",
+    "body": "I’ll be honest, I’m not tremendously fond of cameras. Yet being at Vodafone has really given me the confidence to face discomfort and has led to some seemingly crazy opportunities, such as being part of the Change The Face campaign. Growing up I only wish there was more representation of diversity and I don’t believe there can ever be enough. So despite my initial uneasiness being faced with a lens, I felt wholly warmed at the privilege and opportunity to be a part of such a compelling campaign. It is paramount that awareness is raised about the need for diversity in the technology industry, and that people can relate to real working faces of technology and see that these faces are so much more than the stereotype – they’re full of diversity, with personalities from all over and colours from the rainbow and beyond (intentional Buzz Lightyear-esque quote). We ultimately need to share the ideology that any individual, no matter their walk of life, has the potential to pursue any avenue or opportunity they desire.",
+    "image": "https://content.vodafone.com/sites/default/files/content/dam/vodcom/images/media/Letitia_VF_CTF_Pride_Static-Visual_1.jpg",
+    "tags": ["Inclusion For All"],
+    "published_at": "07-07-2020"
+  },
+  {
+    "blog_id": 6,
+    "title": "Rick Perry on S.H.A.R.P, consortium politics and dodging landmines",
+    "slug": "rick-perry-sharp-consortium-politics-and-dodging-landmines",
+    "body": "Rick Perry has a little chuckle down the phone. It clouds the hint of an awkwardness around the impending conversation he’s about to have. Even over the restrictive medium of Skype, it is easy to learn that Rick is a modest and humble guy. But he’s on this call to speak about having a fibre optic cable that stretches almost around the world named after him. So, those two qualities are about to be put to the test.",
+    "image": "https://content.vodafone.com/sites/default/files/content/dam/vodcom/images/media/medium-colours-map-2Africa.jpeg",
+    "tags": ["Technology"],
+    "published_at": "05-22-2020"
+  }
+]

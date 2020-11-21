@@ -1,0 +1,32 @@
+.filter-container {
+  padding: 20px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-bottom: 5px;
+  :global {
+    .search-container {
+      width: 100%;
+    }
+    .sort-container {
+      min-width: 200px;
+      padding: 0px 15px;
+    }
+  }
+}
+@media screen and (max-width: 480px) {
+  .filter-container {
+    display: block;
+    :global {
+      .search-container {
+        width: 100%;
+        margin-bottom: 20px;
+      }
+      .sort-container {
+        min-width: 0px;
+        padding: 0px;
+        width: 100%;
+      }
+    }
+  }
+}
